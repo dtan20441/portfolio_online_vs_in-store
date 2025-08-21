@@ -12,7 +12,7 @@ An interactive Tableau dashboard can be viewed online [here](https://public.tabl
 The SQL queries used to inspect, clean and prepare data for the dashboard can be found [here](https://github.com/dtan20441/portfolio_online_vs_in-store/blob/main/retail_sales.sql). 
 
 ## Data Structure & Initial Checks
-Goober's data consists of 1 table that has 12,575 records. 
+Goober's data consists of 1 table that has 12,575 records.  
 ![Schema](https://github.com/dtan20441/portfolio_online_vs_in-store/blob/main/Screenshots/Schema.png)
 
 ## Insights
