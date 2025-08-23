@@ -2,7 +2,7 @@
 
 Goober is a retail company that offers a variety of products from pastry to furnitures through its physical stores and online website. 
 
-The company has data from January 1st 2022 to January 18th 2025 regarding product categories, total spent and store location (online and in-store) that this project will analyse to uncover insights to ensure future business success.
+The company has data from January 1st 2022 to January 18th 2025 regarding product categories, revenue, their 25 customers and, store location (online and in-store) that this project will analyse to uncover insights to ensure future business success.
 
 Insights and recommendations are provided on the following areas of Online vs In-store channels:
 - **Sales trend analysis**: Evaluation of sales for the different channels.
