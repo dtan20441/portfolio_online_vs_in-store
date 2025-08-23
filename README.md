@@ -38,7 +38,7 @@ Online sales appear to be superior to in-store purchases, with majority of categ
 
 ### Discount effectiveness
 - **Butchers, Electric household essentials, and Milk Products stand out with higher discount volumes online** than in-store with differences of 31, 34, and 38 respectively. These categories' revenue from online sales are greater than in-store, indicating that the discounts are effective.
-- **Beverages, Food and Furniture are the only categories with more discounts applied in-store**, with a difference of 11, 11, and 9 respectively compared to online. This could mean Goober is providing in-store discounts to encourage the purchase of larger quantities or more expensive products in these categories.
+- **Beverages, Food and Furniture are the only categories with more discounts applied in-store**, with a difference of 11, 11, and 9 respectively compared to online. This could mean Goober is providing more entiing in-store discounts to encourage the purchase of larger quantities or more expensive products in these categories.
 ![discount graph](https://github.com/dtan20441/portfolio_online_vs_in-store/blob/main/Screenshots/discounts%20applied.png)
 
 ### Customer behaviour 
