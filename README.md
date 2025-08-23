@@ -27,7 +27,7 @@ Online sales appear to be superior to in-store purchases, with majority of categ
 ### Sales trend analysis
 - Sales from both channels **fluctuate heavily** between months, with neither consistently outperforming the other across the entire period the data was collected.
 - Majority of the time, online and in-store sales hovered between around $16k and $27k, indicating fairly **stable demand**.
-- From December 2024, sales from both channels experienced a **sharp drop** but this can be attributed to the **incompleteness of the data** as the dataset ends mid-January.  
+- From December 2024, sales from both channels experienced a **sharp drop** but this can be attributed to the **incompleteness of the data** as the dataset ends mid-January.    
 ![Sales trend graph](https://github.com/dtan20441/portfolio_online_vs_in-store/blob/main/Screenshots/sales%20trend.png)
 
 ### Product category comparison
