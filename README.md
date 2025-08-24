@@ -50,7 +50,7 @@ Online sales appear to be superior to in-store purchases, with majority of categ
 - **Online customers edge out in-store customers for shopping frequency**, with online customers typically making 244 purchases (the median) from January 1st 2022 to January 18th 2025 compared to in-store's 234, suggesting that online customers are more engaged.
 - **The interquartile range (box length) is equal across both channels** with 17 purchases, implying that the purchasing behaviour amongst the middle 50% of customers is the same for online and in-store.
   
-![customer behaviour graph](https://github.com/dtan20441/portfolio_online_vs_in-store/blob/main/Screenshots/discounts%20applied.png)
+![customer behaviour graph](https://github.com/dtan20441/portfolio_online_vs_in-store/blob/main/Screenshots/purchase%20frequency.png)
 
 ## Recommendations
 - The **cause of spike in sales from both channels in certain months should be investigated and replicated** to sustain or improve high levels of sales.
