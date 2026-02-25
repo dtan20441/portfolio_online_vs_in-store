@@ -53,7 +53,7 @@ Online sales appear to be superior to in-store purchases, with majority of categ
 ![customer behaviour graph](https://github.com/dtan20441/portfolio_online_vs_in-store/blob/main/Screenshots/purchase%20frequency.png)
 
 ## Recommendations
-- The **cause of spike in sales from both channels in certain months should be investigated and replicated** to sustain or improve high levels of sales.
+- The **cause of spike in sales from both channels in certain months should be investigated and replicated** to sustain or improve high levels of sales. Alternatively, holiday or seasonal specials should be implemented to encourage spending.
 - Look to increase online revenue for Butchers, Beverages, Computers and electronics, Food, Milk Products, and Electric household essentials through **investment in online ads, digital promotions and/or user experience** since these categories have higher online demand.
 - **Categories with more discounts applied in one channel but no corresponding increase in sales should have discounts reduced or replaced if the return on investment is too low.** Beverage, Food and Furniture have more in-store discounts yet online sales perform better, implying that the discounts may not be attractive enough. Focus should be on improving in-store experiences such as sampling or have store-exlcusive bundles. 
-- **Targeted campaigns such as subscription models, loyalty programs or personalised offers should be considered for online shoppers** as they typically purchase online more often, further strengthening online retention and encourage repeat purchasing. 
+- **Targeted campaigns such as subscription models, loyalty programs or personalised offers should be considered for online shoppers** to encourage repeat purchasing.
