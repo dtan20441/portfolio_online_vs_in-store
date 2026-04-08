@@ -40,8 +40,8 @@ Across most product categories, revenue contributions skew toward the online cha
 ![Product category comparison graph](https://github.com/dtan20441/portfolio_online_vs_in-store/blob/main/Screenshots/category%20comparison.png)
 
 ### Discount effectiveness
-- **Butchers, Electric Household Essentials, and Milk Products record higher discount volumes online** (differences of 31, 34, and 38 respectively), alongside higher online revenue. This relationship suggests that online discounting strategies may be contributing positively to sales performance within these categories.
-- **Beverages, Food, and Furniture receive more discounts in-store** (differences of 11, 11, and 9 respectively). However, online revenue remains higher for Beverages and Food, indicating that increased in-store discounting does not correspond with stronger in-store sales outcomes.
+- **Butchers, Electric Household Essentials, Computers and electronic accessories and Milk Products record higher discount volumes online**, alongside higher online revenue. This relationship suggests that online discounting strategies may be contributing positively to sales performance within these categories.
+- **Beverages, Food, and Furniture receive more discounts in-store**. However, online revenue remains higher for Beverages and Food, indicating that increased in-store discounting does not correspond with stronger in-store sales outcomes.
 - The persistence of stronger online revenue despite higher in-store discount activity may indicate greater baseline demand within the online channel or reduced effectiveness of in-store promotional strategies.
   
 ![discount graph](https://github.com/dtan20441/portfolio_online_vs_in-store/blob/main/Screenshots/discounts%20applied.png)
